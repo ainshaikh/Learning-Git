@@ -4,3 +4,40 @@ To add email first time on Git---> git config --global user.email "@gmail.com"
 to check name and emai---> git config --global user.email
 to check name and emai---> git config --global user.email 
 
+to change name and email--->git config--global --edit
+for exit-->press Esc : and wq
+
+Git status---> tells about the status of file added or not
+
+To stage---> git add .
+                  or
+                  git add filename.exit
+
+to commit---> git commit -m"initial commit"
+
+git log---> to see previous commits
+
+to go between different commits (switching)---> checkout
+                                                git checkout 2121enweniwdwdwkdw
+
+to return back ---> git checkout master
+
+To make new branch--->git branch dev
+to check ---> git branch
+
+to switch branch---> git checkout branchname
+
+To merge different branches---> git merge branchname
+
+gitignore---> create a file with .gitignore and type the name of file you want to hide.
+
+to push existing local repo into specific remote repo ---> git remote -v
+                                                            copy and paste the link
+                                                            git remote add origin https://github.com/email/Learning Git
+
+                                                            ->git branch -M    master
+                                                            ->git push -u origin master
+
+to push more branch ---> git checkout branchname
+                        git push -u origin branchname
+
