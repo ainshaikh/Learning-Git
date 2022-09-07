@@ -1,8 +1,8 @@
 To add name first time on Git---> git config --global user.name "name"
 To add email first time on Git---> git config --global user.email "@gmail.com" 
 
-to check name and emai---> git config --global user.email
-to check name and emai---> git config --global user.email 
+to check name and email---> git config --global user.email
+to check name and email---> git config --global user.email 
 
 to change name and email--->git config--global --edit
 for exit-->press Esc : and wq
