@@ -41,3 +41,6 @@ to push existing local repo into specific remote repo ---> git remote -v
 to push more branch ---> git checkout branchname
                         git push -u origin branchname
 
+
+To push into cloned url repo----> git remote set-url origin https://github.com/ainshaikh/Data-Structure-and-Algorithm.git
+
