@@ -11,7 +11,7 @@ Git status---> tells about the status of file added or not
 
 To stage---> git add .
                   or
-                  git add filename.exit
+                  git add filename.extension
 
 to commit---> git commit -m"initial commit"
 
